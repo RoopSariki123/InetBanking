@@ -1,0 +1,7 @@
+Com\inetBanking_001\TestCases\TestCase_001.class
+Com\inetBanking_001\Utilities\XLUtils.class
+Com\inetBanking_001\Utilities\Reporting.class
+Com\inetBanking_001\ObjectPages\LoginPage.class
+Com\inetBanking_001\TestCases\TestCase_002.class
+Com\inetBanking_001\Utilities\ReadConfg.class
+Com\inetBanking_001\ObjectPages\BaseClass.class
